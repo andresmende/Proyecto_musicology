@@ -410,12 +410,16 @@ h2 {
 #imagen {
     height: 25vh;
 }
+.musica{
+     padding-top: 23%;
+}
 h1 {
     font-size: 26px;
 }
 .p {
     font-size: 7px;
 }
+
 /* segunda section*/
 h2 {
     font-size: 30px;
